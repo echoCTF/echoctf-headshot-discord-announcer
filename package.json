@@ -1,0 +1,18 @@
+{
+  "name": "echoctf-headshot-discord-announcer",
+  "version": "0.0.1",
+  "description": "Announce echoCTF headhosts through a discord webhook",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": ">=2.14.0",
+    "request": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Echothrust Solutions",
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/echoCTF/echoctf-headshot-discord-announcer"
+}

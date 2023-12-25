@@ -1,0 +1,10 @@
+{
+  "db_host": "localhost",
+  "db_user": "root",
+  "db_pass": "",
+  "db_name": "echoCTF",
+  "lastID": 0,
+  "DiscordHook": "https://discord.com/api/webhooks/",
+  "botName": null,
+  "botAvatarUrl": null
+}
